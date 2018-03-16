@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.glassfish.external:management-api:3.0.0-b012">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.5.0/maven_repositories/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.5.0/maven_repositories/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.5.0/maven_repositories/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
